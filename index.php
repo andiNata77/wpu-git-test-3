@@ -10,6 +10,10 @@
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum voluptatibus voluptates autem inventore ab,
         corrupti reiciendis, cupiditate iure mollitia, laborum ducimus beatae nemo dolores. Itaque laboriosam distinctio
         quidem minima nihil.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
